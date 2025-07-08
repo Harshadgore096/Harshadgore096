@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshad Gore</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">I’m a Software Developer, Blogger and open Source Contributor working on React js,Node js and REST APIs and other related technologies. During my free time, as a part of my learning routine, I write articles & blogs about the technologies I come across or work with. This not only helps me to learn the topic well but also supports other developers like me looking for clean and well-detailed tutorials along with complete source codes that are available over at my GitHub.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadgore096&label=Profile%20views&color=0e75b6&style=flat" alt="harshadgore096" /> </p>
 
