@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshad Gore</h1>
-<h3 align="center">I’m a Software Developer, Blogger , open Source Contributor and passionate Programmer working on React JS ,Node js ,RESTful API Development and other related technologies. During my free time, as a part of my learning routine, I write articles & blogs about the technologies I come across or work with. This not only helps me to learn the topic well but also supports other developers like me looking for clean and well-detailed tutorials along with complete source codes that are available over at my GitHub.</h3>
+<h3 align="center">I’m a Software Developer, Blogger , open Source Contributor and passionate Programmer working on React JS ,Node js ,Python, LLM,LangChain,RESTful API Development and other related technologies. During my free time, as a part of my learning routine, I write articles & blogs about the technologies I come across or work with. This not only helps me to learn the topic well but also supports other developers like me looking for clean and well-detailed tutorials along with complete source codes that are available over at my GitHub.</h3>
+<h3>I am Also proficient in designing and Building the Mobile Applications(ios & Andriod) on react native With Explo CLI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadgore096&label=Profile%20views&color=0e75b6&style=flat" alt="harshadgore096" /> </p>
 
@@ -7,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@harshadgore11" target="blank"><img src="https://img.shields.io/twitter/follow/@harshadgore11?logo=twitter&style=for-the-badge" alt="@harshadgore11" /></a> </p>
 
-- 🔭 I’m currently working on **Online Coaching Institute – Study Abroad Portal**
+- 🔭 I’m currently working on **AimiGo(Ai Powered Application For The repetative Task)**
 
-- 🌱 I’m currently learning **GraphQL,Backend Development and Cloud Technology**
+- 🌱 I’m currently learning **GraphQL,Backend Development and LangGraph,LangChain,MCP**
 
 - 📝 I regularly write articles on [https://medium.com/@harshadgore004](https://medium.com/@harshadgore004)
 
