@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshad Gore</h1>
-<h3 align="center">I’m a Software Developer, Blogger , open Source Contributor and passionate Programmer working on React JS ,Node js ,Python, LLM,LangChain,RESTful API Development and other related technologies. During my free time, as a part of my learning routine, I write articles & blogs about the technologies I come across or work with. This not only helps me to learn the topic well but also supports other developers like me looking for clean and well-detailed tutorials along with complete source codes that are available over at my GitHub.</h3>
+<h3 align="center">I’m a Software Developer, Blogger , open Source Contributor and passionate Programmer working expertise React JS ,Node js Java,Spring Boot ,Microservises,Python, LLM,LagChain,RESTful API Development and other relatned technologies. During my free time, as a part of my learning routine, I write articles & blogs about the technologies I come across or work with. This not only helps me to learn the topic well but also supports other developers like me looking for clean and well-detailed tutorials along with complete source codes that are available over at my GitHub.</h3>
 <h3>I am Also proficient in designing and Building the Mobile Applications(ios & Andriod) on react native With Expo CLI.</h3>
  <h2> Check Out My Recent Application for Better Trucks(USA) :<a href="https://play.google.com/store/apps/details?id=com.shiftappmobile">Better Trucks Shift APP</a><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadgore096&label=Profile%20views&color=0e75b6&style=flat" alt="harshadgore096" /> </p>
@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on **AimiGo(Ai Powered Application For The repetative Task)**
 
-- 🌱 I’m currently learning **GraphQL,Backend Development and LangGraph,LangChain,MCP**
+- 🌱 I’m currently learning **GraphQL,Backend Development Jave Spiring Boot Microservices
+- **
 
 - 📝 I regularly write articles on [https://medium.com/@harshadgore004](https://medium.com/@harshadgore004)
 
