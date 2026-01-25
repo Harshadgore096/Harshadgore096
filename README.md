@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@harshadgore11" target="blank"><img src="https://img.shields.io/twitter/follow/@harshadgore11?logo=twitter&style=for-the-badge" alt="@harshadgore11" /></a> </p>
 
-- 🔭 I’m currently working on **AimiGo(Ai Powered Application For The repetative Task)**
+- 🔭 I’m currently working on **AimiGo(Ai Powered Application)**
 
 - 🌱 I’m currently learning **GraphQL,Backend Development Jave Spiring Boot Microservices
 - **
